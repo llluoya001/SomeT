@@ -22,4 +22,4 @@
 - [2048](https://youtu.be/HQ6Pei7OXyo)
 ---
 ## 目前自學php中
-[點擊後隨機顯示圖片](https://testccy.000webhostapp.com/me_use/Test.php) 
+[點擊後隨機顯示圖片](https://testccy.000webhostapp.com/me_use/Test.php) <為了讓Plurk每次進入顯示不同圖片所以做的
