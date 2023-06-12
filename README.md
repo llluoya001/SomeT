@@ -20,3 +20,6 @@
 - [GameBot Ⅱ](https://youtu.be/xjLTgnNevTI) 3D射擊遊戲
 - [三款手機遊戲](https://youtu.be/OAfU4K2DIhg) 觸控、陀螺儀練習
 - [2048](https://youtu.be/HQ6Pei7OXyo)
+---
+## 目前自學php中
+![隨機顯示圖片](https://testccy.000webhostapp.com/me_use/Test.php) <重整後隨機顯示圖片 BY 000webhostapp
