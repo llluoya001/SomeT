@@ -22,4 +22,4 @@
 - [2048](https://youtu.be/HQ6Pei7OXyo)
 ---
 ## 目前自學php中
-![隨機顯示圖片](https://testccy.000webhostapp.com/me_use/Test.php) <重整後隨機顯示圖片 BY 000webhostapp
+[點擊後隨機顯示圖片](https://testccy.000webhostapp.com/me_use/Test.php) 
