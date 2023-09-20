@@ -2,7 +2,7 @@
 
 ![標題](https://images.plurk.com/1sTQppMq6Yxpyngofnzeva.png)
 ## STRAY （大二~大三專題）
-- 負責內容：遊戲企劃（不含角色設定）、3D人物建模+貼圖、角色動作（部分使用Mixamo）、Save&Load程式
+- 負責內容：遊戲企劃（不含角色設定）、3D人物建模+貼圖、角色動作（部分使用Mixamo）
   * [操作影片](https://youtu.be/0TB0X9NyaAY)
   * [遊戲試玩](https://github.com/llluoya001/SomeT/releases/tag/v1.0)
   * [企劃書](https://docs.google.com/document/d/1-jSmLdf8pcWMA9DcQn2IMda8Pp9eg0SI/edit?usp=sharing&ouid=111961126216207268492&rtpof=true&sd=true)
